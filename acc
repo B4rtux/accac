@@ -1,7 +1,7 @@
 {
     "_id": "6767fbbd90ccf8dc65b9ca2e",
     "date": "2024-12-22T11:45:00.000Z",
-    "status": 0,
+    "status": 1,
     "ping": 75,
     "servers": 1549,
     "players": 698,
